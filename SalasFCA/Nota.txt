@@ -1,0 +1,1 @@
+La base de datos UABCFCA_Master es la que controloa los usuarios de la facultad esa es la que simulamos de la facutad la otra nosotros la creamos
